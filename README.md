@@ -127,7 +127,7 @@ Dec 2025 – Apr 2026   AI/ML Intern @ McKH Technologies, Vadodara
 **🧩 Apex-Agent**
 <br/>Multi-Tiered Sub-Agent framework orchestrating autonomous AI agents via LangGraph + FastAPI, with MCP integration and a real-time React IAL frontend.
 <br/>`React.js` `LangChain` `LangGraph` `FastAPI`
-<br/>[🔗 Repo](#)
+<br/>[🔗 Repo](https://github.com/Meetvaghela-code/Apex-Agent)
 
 </td>
 <td width="50%">
@@ -135,7 +135,7 @@ Dec 2025 – Apr 2026   AI/ML Intern @ McKH Technologies, Vadodara
 **📖 Study-Buddy**
 <br/>Multi-agent AI learning system for curriculum planning, tutoring & adaptive quizzes using LangGraph, MCP, A2A, and CrewAI with Langfuse observability.
 <br/>`LangGraph` `MCP` `A2A` `Next.js`
-<br/>[🔗 Repo](#)
+<br/>[🔗 Repo](https://github.com/Meetvaghela-code/Study-Buddy)
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Dec 2025 – Apr 2026   AI/ML Intern @ McKH Technologies, Vadodara
 **🏥 Healthcare Voice Agent & CRM**
 <br/>Low-latency VAPI + FastAPI voice agent for appointment scheduling with a predictive no-show risk-scoring model and a Next.js admin dashboard.
 <br/>`Vapi` `FastAPI` `SQLAlchemy` `Next.js`
-<br/>[🔗 Repo](#)
+<br/>[🔗 Repo](https://github.com/Meetvaghela-code/Voice-Agent-Healthcare)
 
 </td>
 <td width="50%">
@@ -153,7 +153,7 @@ Dec 2025 – Apr 2026   AI/ML Intern @ McKH Technologies, Vadodara
 **⚕️ Healthcare AI Portal**
 <br/>Multi-disease prediction (heart, diabetes, lung cancer) at 87–92% accuracy, plus a LangChain + RAG medical chatbot for personalized risk guidance.
 <br/>`Python` `LangChain` `FastAPI` `React.js`
-<br/>[🔗 Repo](#)
+<br/>[🔗 Repo](https://github.com/Meetvaghela-code/HealthcareAi)
 
 </td>
 </tr>
@@ -163,13 +163,11 @@ Dec 2025 – Apr 2026   AI/ML Intern @ McKH Technologies, Vadodara
 **⚡ N8N Automation Suite**
 <br/>Autonomous lead-qualification calling agent (n8n + Vapi) with end-to-end workflow automation, CRM updates, and RAG 2.0 knowledge-base retrieval.
 <br/>`LLM` `Vapi` `n8n` `Vector DB`
-<br/>[🔗 Repo](#)
+<br/>[🔗 Repo](https://github.com/mckhtech/SalesAI)
 
 </td>
 </tr>
 </table>
-
-> 💡 *Replace the `#` links above with your actual GitHub repo URLs.*
 
 ---
 
